@@ -1,4 +1,4 @@
-## Python-Projects
+## Python Projects
 	
     -Classic Snake Game
     -Pong Game
